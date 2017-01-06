@@ -490,6 +490,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = CDB9184F250E906904BF03CB /* Pods-RainyShinyCloudy.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = DSV7VS8A6A;
 				INFOPLIST_FILE = RainyShinyCloudy/Info.plist;
@@ -505,6 +506,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = F7FCF583EEEBD8010F981BCA /* Pods-RainyShinyCloudy.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = DSV7VS8A6A;
 				INFOPLIST_FILE = RainyShinyCloudy/Info.plist;
